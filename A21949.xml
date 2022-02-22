@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the clothiers of Suffoke, Norffolke, and Essex</title>
+            <title>Proclamations. 1601-02-07</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1601</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21949</idno>
+            <idno type="STC">STC 8278</idno>
+            <idno type="STC">ESTC S115560</idno>
+            <idno type="EEBO-CITATION">99850779</idno>
+            <idno type="PROQUEST">99850779</idno>
+            <idno type="VID">16006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:126)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the clothiers of Suffoke, Norffolke, and Essex</title>
+                  <title>Proclamations. 1601-02-07</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno 1600 [i.e. 1601]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint is from colophon; year is given according to Lady Day dating.</note>
+                  <note>Granting relief in the orders appended--STC.</note>
+                  <note>Reprints STC 8193, with additional orders.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing trade --  England --  Early works to 1800.</term>
+               <term>England --  Proclamationse --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:16006:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene. <g ref="char:leaf">❧</g> A Proclamation for the Clothiers of Suffolke, Norffolke, and Eſſex.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">E</seg>Lizabeth</hi> by the grace of God &amp;c.</signed>
+               <salute>To our right truſty and right welbeloued Counſellour Sir <hi>Thomas Sackeuile</hi> of the moſt noble Order of the Garter Knight, Lord Buckhurſt, Lord High Treaſurer of England, To all our Iudges of all our Courts at Weſtminſter, to the Barons of our Eſche<g ref="char:EOLhyphen"/>quer, to all other Iudges in any Court of Record within our Realme of England, and to all Maiors, Shirifs, Cuſtomers, and Controllers of our Ports, Alnagers, Searchers, and all other our Officers and Mini<g ref="char:EOLhyphen"/>ſters whatſoeuer, and to all others to whom it ſhall apperteine, greeting.</salute>
+            </opener>
+            <p>Whereas humble ſute and petition hath of long time bene made vnto vs by our louing Subiects the Clothiers of Suffolke, Norfolke and Eſſex, for ſome reaſonable mitigation and tolleration of the Statutes now ſtanding in force, touching the making of Clothes within the ſame Counties; and namely one Statute made in the fifth and ſixth yeeres of the reigne of King <hi>Edward</hi> the ſixth, intituled, An Act for the true making of Woollen cloth: and one other Statute made in the fourth and fifth yeeres of the reignes of King <hi>Philip</hi> and Queene <hi>Mary,</hi> intituled, An Act touching the making of Woollen clothes, which as we are credibly informed, partly in reſpect of the more fine ſpinning of the Yarne, and better making of Clothes in thoſe parts, then was vſed in times paſt; but ſpecially for that thoſe Clothes being well wrought, rowed, ſhorne, cleane ſcoured, and fully dried, doe thereby looſe much of their weight, whereby the trade of Clothing in thoſe parts is like to be ouerthrowen, the Clothiers be<g ref="char:EOLhyphen"/>ing continually and grieuouſly moleſted by Informers and Searchers: By reaſon whereof they haue forſaken and left their trade, to the great decay of Cloth making within the ſayd Counties, and to the im<g ref="char:EOLhyphen"/>poueriſhment and vtter vndoing of great numbers of poore people there, which heretofore haue bene re<g ref="char:EOLhyphen"/>lieued and ſet on worke by the ſame: A matter likely to grow to further inconuenience, if ſome ſpeedy courſe be not taken for redreſſe thereof. Whereupon we, of our princely and godly diſpoſition, hauing a moſt tender care and regard of our ſayd good and louing Subiects, and deſiring as much as in vs lieth to prouide conuenient and ſpeedy reliefe for them, in that behalfe, Haue by the aduice of the Lords and o<g ref="char:EOLhyphen"/>thers of our Priuy Councell, who haue had the examination thereof, and with great deliberation haue cauſed certeine Orders to be deuiſed and ſet downe for mitigation of the extremities and ſtrictneſſe of the ſayd Statutes, and for toleration to the ſayd Clothiers for and concerning the ſame, ſo as they ſhould not be vexed with any ſutes by informations or actions, as long as they ſhal obſerue the ſayd Orders: which ſayd Orders we haue cauſed to be heereunto annexed, ſtraightly charging and commanding aſwell the Clothiers aforeſayd, as alſo all others to whom it ſhall or may in any wiſe apperteine, duely to obſerue and performe the ſame in all things. And our expreſſe will and pleaſure is, that none of the Clothiers within our ſayd Counties of Suffolke, Norffolke, and Eſſex, which ſhall fully and truly in all things ob<g ref="char:EOLhyphen"/>ſerue, fulfill, and accompliſh the ſayd Orders according to the effect and true meaning of the ſame, ſhall in any wiſe be ſued, impeached, troubled or moleſted by any Alnager, Searcher, or Informer, or any other perſon or perſons whatſoeuer, for or by reaſon of the breach or not performing of the ſayd Statutes or any of them, or for or concerning any forfeiture or penaltie therein conteined: which we require you all to ſee obſerued in all Courts, where any perſon ſhall offer to implead them, contrary to the good intention of the ſayd Orders: And theſe tolerations to endure during our pleaſure, or vntill by Parliament the ſame may be further conſidered and eſtabliſhed, as the like prouiſion hath beene made for Weſterne Clothes in the xxvii. yeere of our reigne. We will alſo that at the requeſt of the Clothiers of Suffolke, Norffolke, and Eſſex, or any of them, the Orders hereunto annexed ſhalbe publiſhed and fixed vp in our City of Lon<g ref="char:EOLhyphen"/>don in places conuenient: and likewiſe publiſhed in ſuch Market and Port townes as ſhall be thought needfull in the ſayd Counties. All which ſhall be done by order and direction of our Priuie Councell, as they ſhall thinke meet from time to time.</p>
+            <closer>
+               <dateline>Giuen vnder our Signet at our Palace of Weſtminſter <date>the ſeuenth day of February, in the xliii. yeere of our reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:16006:2" rendition="simple:additions"/>
+            <head>¶ The Orders, as followeth, viz.</head>
+            <p n="1">
+               <seg rend="decorInit">F</seg>Irſt, foraſmuch as Clothes commonly called Short clothes, made in the Counties of Suffolke and Eſſex<g ref="char:punc">▪</g> are for the moſt part caried into the parts beyond the Seas, and there vttered an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſolde, and but very fewe thereof within this Realme: Her Maieſties will and pleaſure therefore is, that the ſame ſhalbe allowed to paſſe as good and merchantable Clothes, being made as hereafter is declared, and viewed to be ſo by the Alneger of the Countie, and by him ſealed accordingly.</p>
+            <p n="2">
+               <hi>2.</hi> Item, whereas by the ſtatutes now being in force, the ſaid Clothes called Short clothes, being well thicked, ought to conteine in length (be<g ref="char:EOLhyphen"/>ing through wet) betweene xxiii. and xxv. yards, yard and inch of the rule: and being well ſcoured and fully dried, ought to weigh lxiiii. pound the Cloth at the leaſt: Foraſmuch as the ſaide Clothes, by reaſon of rowing, dreſſing, and ſhearing, doe looſe of their weight limitted by the ſaide Statute: Therefore her Maieſties pleaſure is, That the ſaid Clothiers ſhalbe tolerated for the weight of foure pounds in euery ſuch Cloth, well wrought and ſhorne, and that euery of thoſe Clothes being wel rowed, ſhorne, dreſſed, cleane ſcowred, drie, and ready to ſale, which ſhall weigh threeſcore pounds the Cloth at the leaſt ſhalbe allowed to be good and ſufficient. And that in like maner for the long Clothes made in thoſe Counties, allowance ſhalbe made of fiue pounds in euery long Cloth, being well wrought, rowed, ſhorne, dreſſed, cleane ſcowred, dry, and ready to ſale.</p>
+            <p n="3">
+               <hi>3.</hi> Item, that none of the ſaide Clothes ſhalbe ſtretched or ſtrained aboue two yards in length at the moſt: And that none of the ſaid Clothes being dry, and ready to ſale, ſhall conteine any more or longer mea<g ref="char:EOLhyphen"/>ſure then xxvii. yards, yard and inch of the rule at the moſt: And none of the long Clothes being dry and ready to ſale, ſhall conteine any more or longer meaſure then one and thirtie yards, yard and inch of the rule at the moſt.</p>
+            <p n="4">
+               <hi>4.</hi> Item, that the colours of all thoſe Clothes, and all other Clothes whatſoeuer within the ſayde Counties, being died, in wooll, yarne, or Cloth mingled or vnmingled, ſhall be good, ſure and true in all reſpects.</p>
+            <p n="5">
+               <hi>5.</hi> Item, her Maieſties wil and pleaſure is, That the ſayd ſhort Clothes weighing threeſcore pounds the Cloth at the leaſt, and not exceeding in length xxvii. yards at the moſt, and being cleane ſcowred, fully wrought, dried, and well dreſſed, as is aforeſaide: And the ſayd long Clothes being of ſuch weight at the leaſt as is before allowed, not exceeding the length of xxxi. yards, yard and inch of the rule, and not being in breadth aboue that which the Lawes and Statutes doe allow, and being well dreſſed, as is aforeſaid: And alſo all vnwrought ſhort Clothes not exceeding xxvii. yards in length as aforeſayd, hauing their full weight of threeſcore and foure pounds, ſhalbe allowed and permitted to paſſe without triall by water, by any Searcher or Searchers.</p>
+            <p n="6">
+               <hi>6.</hi> Item, That it ſhall be lawfull for all Searchers to make ſearch of all the ſaide Clothes whereſo<g ref="char:EOLhyphen"/>euer the ſame may be found, for the colours, weight, and length thereof, according to theſe Orders.</p>
+            <p n="7">
+               <hi>7.</hi> Item, That the liſt of any ſhort Cloth ſhall not be in breadth aboue one naile at the moſt, and ſhall not weigh by common iudgement aboue fiue pounds at the vttermoſt: and no liſt of the long Cloth ſhalbe in weight aboue ſixe pounds.</p>
+            <p n="8">
+               <hi>8.</hi> And for the auoyding of great deceits commonly practiſed by bad Clothiers, in caxxying of their falſe &amp; inſufficiently made Clothes to Cloth workers houſes, and other priuate places in and neere about the Citie of London, and there vttering and ſelling the ſame, not bringing them to the open and common Market of Blackwelhall: Her Maieſtie ſtraightly chargeth and commandeth, that all Clothiers of the ſaide Counties, ſhall hereafter bring to the common Market of Blackwelhall aforeſaid, or to ſuch other open place as ſhalbe for that purpoſe aſſigned by the Lord Maior and court of Aldermen of London for the time being, All ſuch Clothes, as they or any of them ſhall bring, or cauſe to be brought to the ſaid Citie or to the Suburbs or places neere thereunto, and there ſhall vtter and ſhewe the ſame, whether they were ſolde before or not; And that no Clothier, or any other perſon within or neere the ſaid Citie, ſhall keepe or ſuffer any priuate Markets or ſales of any ſuch Clothes to be vſed or ſuffred in their or any of their houſes, ſhops, or warehouſes, And that no Clothier ſhall hereafter take or enioy any benefite of theſe Orders and tollerations for any their Clothes vttered or brought in, or to the ſaid Citie of London, or the Suburbs or places neere to the ſame: Sauing thoſe onely which ſhall bring the ſame their Clothes to the ſaide com<g ref="char:EOLhyphen"/>mon Market of Blackwelhall (or ſuch other open place, as ſhall be for that purpoſe aſſigned by the Lord Maior and court of Aldermen of London for the time being) And for their Clothes made, and wrought according to theſe Articles; And that all Searchers ſhall haue power and authoritie to make ſearch for all defectiue and inſufficient Clothes in all other priuate houſes, ſhops and places within the ſaide Citie of London, and the Suburbs thereof, according to the Statutes in thoſe caſes prouided.</p>
+            <p n="9">
+               <hi>9.</hi> And to the ende the ſaid Clothiers ſhall not pretend any ignorance, or lacke of knowledge of her highneſſe pleaſure in this behalfe; Her Maieſtie willeth and commandeth, that the Maior of London be<g ref="char:EOLhyphen"/>fore the twentieth day of this moneth of March ſhall cauſe the ſame to be openly publiſhed and declared in the common Market of Blackwelhall aforeſaide.</p>
+            <pb facs="tcp:16006:3" rendition="simple:additions"/>
+            <p n="10">
+               <hi>10.</hi> And foraſmuch as there is great fraud and inconuenience in the ouer ſtraining of Clothes, and for that, that in thoſe parts there are two ſorts of Clothes made, the one called A long Cloth, which is to con<g ref="char:EOLhyphen"/>teine in length betweene xxviii. and xxx. yards, yard and inche of the Rule: and the other called A ſhort Cloth, which is to conteine in length betweene xxiii. and xxv. yards of like meaſure: Her Maieſty char<g ref="char:EOLhyphen"/>geth and commandeth, that in the ſayd Counties, all long Tentours ſhall be cut to xxxi. yards, yard and inch of the Rule: And all ſhort Tentours and Racks to xxvii. yards, yard and inche of the Rule, and that one Tentour ſhall not be permitted to ſtand neere to another by two yards at the leaſt: And that all Ten<g ref="char:EOLhyphen"/>tours that are not agreeable to the lengths aforeſayd, ſhall be cut and reformed before the feaſt of Eaſter now next comming: And that no ſhort Cloth ſhalbe tentoured vpon any long Tentour, vpon ſuch paines as the Law doth appoint.</p>
+            <p n="11">
+               <hi>11.</hi> Item, That the chiefe officer or officers of euery City, Towne corporate, or Port towne, where any the ſayd kinde of Clothes are made, ſolde, or ſhipped, ſhall appoint an open and conuenient place, where<g ref="char:EOLhyphen"/>vnto we ſtraightly charge and command, that euery Clothier, or Selier of Cloth, ſhall bring euery the ſayd Clothes to be ſearched and viewed, not being brought to London or the Suburbs thereof as afore<g ref="char:EOLhyphen"/>ſayd.</p>
+            <p n="12">
+               <hi>12.</hi> And that euery ſuch officer or officers, ſhall ſearch, view, and ſeale with ſome Seale for that pur<g ref="char:EOLhyphen"/>poſe to be ordeined, or cauſe to be ſearched, viewed, and ſealed, euery ſuch Cloth before the ſame be ſhipped, or ſet to ſale, vpon ſuch paines and penalties, as may be inflicted vpon Contemners of her Highneſſe princely and royall commandement.</p>
+            <p n="13">
+               <hi>13.</hi> Prouided alwayes, that by colour heereof nothing be exacted or taken of the Clothier or Seller of Cloth, more or otherwiſe then is allowed by the Statutes in that behalfe made, And that ſearch, view and ſealing be made as is aforeſayd, with all expedition that conueniently may be.</p>
+            <p n="14">
+               <hi>14.</hi> And that no Clothier ſhall hereafter take or enioy any benefite of theſe Orders and tollerations for any their ſaide Clothes brought, vttered or ſolde, in any part of this Realme, or the dominions thereof, ſa<g ref="char:EOLhyphen"/>uing thoſe onely which ſhall bring their Clothes to ſuch places as herein before is ordeined, and there af<g ref="char:EOLhyphen"/>ter the ſaid Clothes are viewed, ſearched and ſealed, doe in the ſame Market or open place ſell or vtter the ſame, and for ſuch of the ſame only, as ſhalbe made and wrought according to the true intent and meaning of theſe Orders.</p>
+            <p n="15">
+               <hi>15.</hi> And finally, her Maieſtie willeth and commandeth, that no perſon which ſhall infringe and breake theſe Orders, or any of them, ſauing for the matter of weight, ſhal in any wiſe enioy or claime any benefit thereby, but ſhalbe ſubiect to all the penalties and forfeitures limitted and appointed in and by the ſayde Statutes, And that all Searchers, Informers, and all other perſons, to whom it ſhall or may apperteine, ſhal and may hereupon haue and vſe like remedy, benefit and aduantage againſt euery one ſo offending, as though theſe Orders had neuer bene made.</p>
+            <p n="16">
+               <hi>16.</hi> And concerning the reformation of the weight aboue mentioned, conſidering the penalty for want of weight, for euery pound not exceeding foure pounds, is ii. s. and for euery pound being aboue foure pounds is v.s. by the Statute: It is ordered that the Statute ſhalbe executed vpon all Clothes made contrary to the forme of theſe Articles, as is aforeſaid. The aforeſaid Orders to continue onely during her Maieſties pleaſure.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printed to the Queenes moſt excellent Maiestie.</p>
+            <p>ANNO 1600.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
